@@ -1,0 +1,17 @@
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/temperature/TemperaturesService.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/temperature/Temperature.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/entity/Book.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/repository/BookRepository.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/genre/Genre.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/genre/GenreRepository.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/genre/GenreMapperImpl.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/ejemplo/EcoResource.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/genre/GenreResponseDto.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/genre/GenreMapper.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/genre/CreateGenreDto.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/utilidades/NoSuchElementExceptionMapper.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/resource/BookResource.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/temperature/TemperaturesResource.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/genre/UpdateGenreDto.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/genre/GenreResource.java
+/Users/pablotrujillo/Downloads/quarkus-api/src/main/java/quarkus/genre/PaginatedResponse.java
